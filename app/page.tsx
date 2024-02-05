@@ -41,6 +41,7 @@ export default function Home() {
             Docs <span>-&gt;</span>
           </h2>
           <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Or else bad things will happen.</p>
         </a>
 
         <a
